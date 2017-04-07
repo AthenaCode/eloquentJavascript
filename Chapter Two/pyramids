@@ -1,0 +1,3 @@
+for(var pyramids = '#'; pyramids.length < 8; pyramids += '#'){
+  console.log(pyramids);
+}
